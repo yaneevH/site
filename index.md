@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Welcome
+# What if the stars and sky are for show?
 
-Hello World. Hello Friend.
-
+Buh.
