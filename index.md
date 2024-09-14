@@ -1,7 +1,8 @@
 ---
 layout: home
 title: home
+hide_in_nav: true
 ---
-# What if the stars and sky are for show?
+# What if the stars and sky are for show,
 
-And the aliens are watching live?
+and the aliens are watching live?
