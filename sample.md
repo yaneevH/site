@@ -1,6 +1,7 @@
 ---
 title: sample
 layout: page
+hidden: true
 ---
 
 # Lorem ipsum dolor 
