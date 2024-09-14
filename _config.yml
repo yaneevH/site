@@ -2,16 +2,16 @@ domain: example.com
 url: https://example.com
 baseurl: "/site"
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: starsandskyforshow
+email: yaneevh@gmail.com
+author: Neev
 
 lang: en
 
 plugins:
   - jekyll-seo-tag
 
-color: "#13ccf9"
+color: "#999999"
 # disqus:
 #   shortname: example-com
 #
