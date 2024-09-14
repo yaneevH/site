@@ -7,15 +7,17 @@
             <div class="w-full lg:w-6/12 px-4">
 
                 <h4 class="text-3xl fonat-semibold">
-                    {{
- site.data[site.lang].footer.title | default: "Let's keep in touch!" |
+                    <i>
+                        {{
+ site.data[site.lang].footer.title | default: "~page fin~" |
         localize
-                    }}
+                        }}
+                    </i>
                 </h4>
                 <span class="text-lg dark:text-slate-300 my-4">
                     {{ site.data[site.lang].footer.description | default: "That's all for now'." }}
                 </span>
-                {% include social.html %}
+                <!--  {% include social.html %}-->
 
             </div>
 
