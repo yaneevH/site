@@ -2,6 +2,7 @@
 title: sample
 layout: page
 hide_in_nav: true
+hidden: true
 ---
 
 # Lorem ipsum dolor 
