@@ -1,7 +1,7 @@
 ---    
 layout: post    
 title: Loneliness: 1 out of 35 Million  
-image: assets/images/nothingmatters.jpg  
+image: /assets/images/nothingmatters.jpg  
 ---  
 I'm writing this from a city of 35 million people, which obviously can create an intense feeling of loneliness. Loneliness isn?t inherently bad, it sure can feel it. However, loneliness isn't necessarily a singular feeling. I wanted to discuss some types I?ve felt while living around.  
    
