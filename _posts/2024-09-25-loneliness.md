@@ -8,17 +8,14 @@ I'm writing this from a city of 35 million people, which obviously can create an
 The types of loneliness I?ve experienced most recently are:
 
 * Loneliness from solitude,   
-* Loneliness with no one around, 
-
-and (arguably the worst) 
-
+* Loneliness with no one around, and (arguably the worst)   
 * Loneliness even when surrounded by friends. 
 
 ## Loneliness In Solitude
 
 I think the easiest one to discuss is that of being in a big city. You feel insignificant like your actions don't necessarily affect the community or environment around you because it?s so massive. 
 
-In this context, who you are doesn?t really matter to anyone around you. Wherever you go, you don?t see a single person you recognize, almost as if you?re a ghost watching others live their lives. For all intents and purposes, you might as well be one, to the thousands of people who pass by you each day and don?t give you a second thought -- your actions don?t effect them and vice versa. None of them really have a significant effect on your life, and so you feel like you're in a bubble of just yourself?if you even exist.
+In this context, who you are doesn?t really matter to anyone around you. Wherever you go, you don?t see a single person you recognize, almost as if you?re a ghost watching others live their lives. For all intents and purposes, you might as well be one, to the thousands of people who pass by you each day and don?t give you a second thought -- your actions don?t affect them and vice versa. None of them really have a significant effect on your life, and so you feel like you're in a bubble of just yourself?if you even exist.
 
 This is the most explicit feeling of loneliness and the least emotionally heavy one. It?s very objective, and there?s even some upside to it. For example, the idea that "nothing you do matters" can be both good or bad. Similarly, the idea that "who you are doesn?t matter" can also be good or bad. 
 
