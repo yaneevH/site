@@ -16,7 +16,7 @@ and (arguably the worst)
 
 ## Loneliness In Solitude
 
-I think the easiest one to discuss is that of being in a big city. You feel insignificant, like your actions don't necessarily have consequences on the community or environment around you because it?s so massive. 
+I think the easiest one to discuss is that of being in a big city. You feel insignificant like your actions don't necessarily affect the community or environment around you because it?s so massive. 
 
 In this context, who you are doesn?t really matter to anyone around you. Wherever you go, you don?t see a single person you recognize, almost as if you?re a ghost watching others live their lives. For all intents and purposes, you might as well be one, to the thousands of people who pass by you each day and don?t give you a second thought -- your actions don?t effect them and vice versa. None of them really have a significant effect on your life, and so you feel like you're in a bubble of just yourself?if you even exist.
 
@@ -24,7 +24,7 @@ This is the most explicit feeling of loneliness and the least emotionally heavy 
 
 ![][image1]
 
-In this environment, where you are virtually just another person in the simulation, the perception of you doesn't really exist either since it doesn?t effect you. This gives you the opportunity to reinvent yourself, to enjoy your solitude, and to present yourself in any way you choose. 
+In this environment, where you are virtually just another person in the simulation, the perception of you doesn't exist either since it doesn?t affect you. This allows you to reinvent yourself, to enjoy your solitude, and to present yourself in any way you choose. 
 
 You're constantly exposed to people who aren't necessarily going to remember or affect you, which can be a good feeling if you're looking to change things up. However, once you've found it?once you've changed things up?it's nice to have some feedback, some friends, some people around you, etc. So keep that in mind.
 
@@ -58,7 +58,7 @@ Then there?s the feeling of needing someone to hear you out, but when you look a
 
 ### Copium: Drowning Out The Loneliness
 
-Something I wanted to touch upon is how people often cope with these feelings of loneliness by drowning them out?keeping busy and focusing on everything but that feeling. I think it can be constructive to acknowledge it. Not all emotions are worth taking to heart, but all of them are worth observing. Feelings come and go, and they?re not always a true reflection of the situation. They can guide you and give you hints, but just because you feel bad doesn?t mean the situation is bad. Hopefully, that makes sense.
+Something I wanted to touch upon is how people often cope with these feelings of loneliness by drowning them out?keeping busy and focusing on everything but that feeling. I think it can be constructive to acknowledge it. Not all emotions are worth taking to heart, but they are worth observing. Feelings come and go, and they?re not always a true reflection of the situation. They can guide you and give you hints, but just because you feel bad doesn?t mean the situation is bad. Hopefully, that makes sense.
 
 I know I?m flip-flopping a bit, but I wanted to acknowledge that some people may be drowning out their loneliness with everything but what they truly need: someone they can feel vulnerable around. Of course, in darker cases, maybe it's one-sided, but that's a topic for a completely different blog post. This is a reminder for me to get back to discussing ?one-sided relationships? in another post.
 
